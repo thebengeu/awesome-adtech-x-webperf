@@ -4,6 +4,10 @@ Personal curated list of AdTech and Web(Perf) resources
 
 # AdTech
 
+## Awesome Lists
+
+- [AirGrid/awesome-adtech](https://github.com/AirGrid/awesome-adtech)
+
 ## Newsletters
 
 - [AdExchanger](https://www.adexchanger.com/newsletter/)
@@ -32,6 +36,10 @@ Personal curated list of AdTech and Web(Perf) resources
 - [@thebengeu's AdTech Twitter List](https://twitter.com/i/lists/1238822958157762561)
 
 # Web(Perf)
+
+## Awesome Lists
+
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Twitter
 
