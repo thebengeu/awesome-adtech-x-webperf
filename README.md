@@ -59,6 +59,11 @@
 - [Publisher Ads Audits for Lighthouse](https://developers.google.com/publisher-ads-audits)
 - [Publisher Ads Lighthouse Plugin](https://github.com/googleads/publisher-ads-lighthouse-plugin)
 
+#### Google Ad Manager
+
+- [Ad Speed Home dashboard](https://support.google.com/admanager/answer/9203630)
+- [Ad Speed reports](https://support.google.com/admanager/answer/9222059)
+
 ## AdTech
 
 ### Awesome Lists
