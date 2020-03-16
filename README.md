@@ -33,7 +33,7 @@ Personal curated list of AdTech and Web(Perf) resources
 
 ## Twitter
 
-- [@thebengeu's AdTech Twitter List](https://twitter.com/i/lists/1238822958157762561)
+- [@thebengeu's AdTech Twitter List](https://twitter.com/i/lists/1238822958157762561) - [#adtech](https://twitter.com/hashtag/adtech), intended to be mostly non-overlapping with other resources.
 
 # Web(Perf)
 
@@ -43,4 +43,4 @@ Personal curated list of AdTech and Web(Perf) resources
 
 ## Twitter
 
-- [@thebengeu's Web(Perf) Twitter List](https://twitter.com/i/lists/1238822891153743873)
+- [@thebengeu's Web(Perf) Twitter List](https://twitter.com/i/lists/1238822891153743873) - [#webdev](https://twitter.com/hashtag/webdev), skewed towards [#webperf](https://twitter.com/hashtag/webperf).
