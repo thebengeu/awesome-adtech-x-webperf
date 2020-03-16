@@ -1,6 +1,6 @@
-# Awesome Adtech & WebPerf
+# Awesome AdTech & WebPerf
 
-Personal curated list of AdTech and Web(Perf) resources
+Personal curated list of AdTech and Web(Perf) resources.
 
 # AdTech
 
