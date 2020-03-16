@@ -6,13 +6,13 @@
     </head>
     <body>
         <outline text="AdTech" title="AdTech">
+            <outline text="Ad.Product" title="Ad.Product" type="rss" xmlUrl="https://adzerk.com/blog/feed.xml" htmlUrl="https://adzerk.com" />
             <outline text="AdExchanger" title="AdExchanger" type="rss" xmlUrl="http://feeds2.feedburner.com/ad-exchange-news" htmlUrl="https://www.adexchanger.com" />
-            <outline text="The Ad Contrarian" title="The Ad Contrarian" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/aDYs" htmlUrl="http://adcontrarian.blogspot.com/" />
-            <outline text="Digiday" title="Digiday" type="rss" xmlUrl="https://digiday.com/feed/" htmlUrl="https://digiday.com" />
             <outline text="AdMonsters" title="AdMonsters" type="rss" xmlUrl="https://www.admonsters.com/feed/" htmlUrl="https://www.admonsters.com" />
-            <outline text="Confiant - Medium" title="Confiant - Medium" type="rss" xmlUrl="https://blog.confiant.com/feed" htmlUrl="https://blog.confiant.com?source=rss----4423e6ce17be---4" />
-            <outline text="Ad.Product Blog " title="Ad.Product Blog " type="rss" xmlUrl="https://adzerk.com/blog/feed.xml" htmlUrl="https://adzerk.com" />
             <outline text="Automatad" title="Automatad" type="rss" xmlUrl="https://headerbidding.co/feed/" htmlUrl="https://headerbidding.co" />
+            <outline text="Confiant" title="Confiant" type="rss" xmlUrl="https://blog.confiant.com/feed" htmlUrl="https://blog.confiant.com" />
+            <outline text="Digiday" title="Digiday" type="rss" xmlUrl="https://digiday.com/feed/" htmlUrl="https://digiday.com" />
+            <outline text="The Ad Contrarian" title="The Ad Contrarian" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/aDYs" htmlUrl="http://adcontrarian.blogspot.com/" />
         </outline>
     </body>
 </opml>
