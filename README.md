@@ -103,6 +103,10 @@
 
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 
+### Newsletters
+
+- [Perf.email by Calibre](https://perf.email/)
+
 ### Twitter
 
 - [@thebengeu's Web(Perf) Twitter List](https://twitter.com/i/lists/1238822891153743873) - [#webdev](https://twitter.com/hashtag/webdev), skewed towards [#webperf](https://twitter.com/hashtag/webperf).
