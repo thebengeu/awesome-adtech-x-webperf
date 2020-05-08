@@ -73,9 +73,11 @@
 ### Newsletters
 
 - [AdExchanger](https://www.adexchanger.com/newsletter/)
-- [AdTech Weekly Roundup](https://automatad.com/ad-tech-weekly.php)
+- [AdTech Weekly Roundup](https://automatad.com/ad-tech-weekly.php) by [Automatad](https://automatad.com/)
 - [Digiday](https://digiday.com/newsletters/)
+- [Last Week In Adops](http://tinyletter.com/happensinadops) by [happensinadops](https://twitter.com/happensinadops)
 - [The Ad Contrarian Newsletter](https://www.bobhoffmanswebsite.com/newsletters)
+- [This Week In Ad Tech...](https://adprofs.co/this-week-in-ad-tech/) by [AdProfs](https://adprofs.co/)
 
 ### Podcasts
 
