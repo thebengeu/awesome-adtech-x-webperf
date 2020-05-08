@@ -13,6 +13,7 @@
             <outline text="Confiant" title="Confiant" type="rss" xmlUrl="https://blog.confiant.com/feed" htmlUrl="https://blog.confiant.com" />
             <outline text="Digiday" title="Digiday" type="rss" xmlUrl="https://digiday.com/feed/" htmlUrl="https://digiday.com" />
             <outline text="The Ad Contrarian" title="The Ad Contrarian" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/aDYs" htmlUrl="http://adcontrarian.blogspot.com/" />
+            <outline text="What Happens In Adops" title="What Happens In Adops" type="rss" xmlUrl="https://happensinadops.com/rss" htmlUrl="https://happensinadops.com/"/>
         </outline>
     </body>
 </opml>
